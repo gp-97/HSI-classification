@@ -7,6 +7,7 @@ Hyperspectral Image Classification using:
 The model has been trained on the __Indiana Pines__ dataset.
 
 |![HSI Slice 1](assets/images/img1.png)|![HSI Slice 2](assets/images/img2.png)|![HSI Slice 3](assets/images/img3.png)|![HSI Slice 4](assets/images/img4.png)|
+|-------------------|--------------------|------------------|---------------------|
 
 |Loss V/s epoch|Accuracy V/s epoch|
 |--------------|------------------|
