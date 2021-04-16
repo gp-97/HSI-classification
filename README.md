@@ -1,6 +1,10 @@
 # HSI-classification
-Implementing Hyperspectral Image Classification using DR-CNN (Dimensionality reduction and CNN), with f-norm reduction and PCA reduction.
-The model has been trained on the Indiana Pines dataset.
+Hyperspectral Image Classification using:
+- DR-CNN (Dimensionality reduction and CNN)
+- f-norm reduction
+- PCA reduction
+
+The model has been trained on the __Indiana Pines__ dataset.
 
 ### Model: "sequential_4"
 |Layer (type)|Output Shape|Param|   
