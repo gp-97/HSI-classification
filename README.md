@@ -3,8 +3,8 @@ Implementing Hyperspectral Image Classification using DR-CNN (Dimensionality red
 The model has been trained on the Indiana Pines dataset.
 
 ### Model: "sequential_4"
-|----------------------|----------------------------|----------------|
 |Layer (type)|Output Shape|Param|   
+|----------------------|----------------------------|----------------|
 |conv2d_7 (Conv2D)|(None, 14, 14, 16)|416|       
 |max_pooling2d_7|(MaxPooling2 (None, 7, 7, 16)|0|         
 |conv2d_8 (Conv2D)|(None, 4, 4, 32)|8224|      
