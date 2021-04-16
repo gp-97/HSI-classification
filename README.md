@@ -6,7 +6,13 @@ Hyperspectral Image Classification using:
 
 The model has been trained on the __Indiana Pines__ dataset.
 
-### Model: "sequential_4"
+|[HSI Slice 1](assets/images/img1.png)|[HSI Slice 2](assets/images/img2.png)|[HSI Slice 3](assets/images/img3.png)|[HSI Slice 4](assets/images/img4.png)
+
+|Loss V/s epoch|Accuracy V/s epoch|
+|--------------|------------------|
+|[Loss V/s epoch](assets/images/res1.png)|[Accuracy V/s epoch](assets/images/res2.png)|
+
+#### Model:
 |Layer (type)|Output Shape|Param|   
 |----------------------|----------------------------|----------------|
 |conv2d_7 (Conv2D)|(None, 14, 14, 16)|416|       
